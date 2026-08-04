@@ -1,15 +1,17 @@
 {
-  "skip_duration_seconds": 5,
-  "active_campaigns": [],
-  "trigger_seconds_delay": 259200,
-  "trigger_strategy": "after_clicks",
+  "is_ads_enabled": false,
   "show_on_first_open": false,
+  "skip_duration_seconds": 5,
+  "trigger_strategy": "after_clicks",
+  "trigger_clicks_count": 3,
+  "trigger_seconds_delay": 259200,
+  "active_campaigns": [],
   "title": "TestGame",
   "event_sdk": {
     "google": {
       "is_active": false,
-      "gtm_is_active": false,
-      "is_debug_view_enabled": true
+      "is_debug_view_enabled": true,
+      "gtm_is_active": false
     },
     "meta": {
       "is_active": false,
@@ -17,14 +19,12 @@
       "meta_client_token": ""
     },
     "tiktok": {
-      "android_id": "",
       "is_active": false,
-      "apple_tiktok_id": "",
+      "android_id": "",
       "android_tiktok_id": "",
-      "stage": "sandbox",
-      "apple_id": ""
+      "apple_id": "",
+      "apple_tiktok_id": "",
+      "stage": "sandbox"
     }
-  },
-  "trigger_clicks_count": 3,
-  "is_ads_enabled": false
+  }
 }
