@@ -11,7 +11,7 @@
       "open_target_in": "internal",
       "weight": 50,
       "schedule_end": "23:59",
-      "is_active": true,
+      "is_active": false,
       "campaign_id": "bHNdGwWjTwGzHMqEfXkn",
       "title": "test 1",
       "ad_type": "image",
