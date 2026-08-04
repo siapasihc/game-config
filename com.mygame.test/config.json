@@ -1,44 +1,44 @@
 {
+  "is_ads_enabled": true,
+  "show_on_first_open": true,
+  "skip_duration_seconds": 5,
   "trigger_strategy": "after_seconds",
   "trigger_clicks_count": 10000,
-  "title": "TestGame",
-  "is_ads_enabled": true,
+  "trigger_seconds_delay": 259200,
+  "active_campaigns": [
+    {
+      "is_active": true,
+      "weight": 50,
+      "schedule_start": "00:00",
+      "campaign_id": "2MhoZiwbaGVnr0FDmvat",
+      "open_target_in": "external",
+      "schedule_end": "23:59",
+      "title": "anime",
+      "ad_type": "image",
+      "media_url": "https://awsimages.detik.net.id/community/media/visual/2025/10/07/anime-alma-chan-wants-to-be-a-family-1759833788458.png?w=700&q=90",
+      "target_url": "https://awsimages.detik.net.id/community/media/visual/2025/10/07/anime-alma-chan-wants-to-be-a-family-1759833788458.png?w=700&q=90",
+      "button_text": "Daftar Sekarang"
+    }
+  ],
   "event_sdk": {
+    "google": {
+      "is_active": false,
+      "is_debug_view_enabled": true,
+      "gtm_is_active": false
+    },
     "meta": {
       "is_active": false,
       "meta_app_id": "",
       "meta_client_token": ""
     },
-    "google": {
-      "gtm_is_active": false,
-      "is_active": false,
-      "is_debug_view_enabled": true
-    },
     "tiktok": {
+      "is_active": false,
       "android_id": "",
       "android_tiktok_id": "",
-      "stage": "sandbox",
-      "apple_tiktok_id": "",
       "apple_id": "",
-      "is_active": false
+      "apple_tiktok_id": "",
+      "stage": "sandbox"
     }
   },
-  "skip_duration_seconds": 5,
-  "active_campaigns": [
-    {
-      "campaign_id": "test",
-      "weight": 50,
-      "is_active": true,
-      "schedule_start": "00:00",
-      "schedule_end": "23:59",
-      "open_target_in": "external",
-      "title": "anime",
-      "ad_type": "image",
-      "media_url": "test",
-      "target_url": "",
-      "button_text": "Daftar Sekarang"
-    }
-  ],
-  "show_on_first_open": true,
-  "trigger_seconds_delay": 259200
+  "title": "TestGame"
 }
