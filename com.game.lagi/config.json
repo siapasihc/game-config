@@ -1,44 +1,30 @@
 {
-  "is_ads_enabled": true,
-  "show_on_first_open": true,
-  "skip_duration_seconds": 10,
-  "trigger_strategy": "after_seconds",
-  "trigger_clicks_count": 10000,
-  "trigger_seconds_delay": 259200,
-  "active_campaigns": [
-    {
-      "schedule_end": "23:59",
-      "weight": 50,
-      "schedule_start": "00:00",
-      "is_active": true,
-      "campaign_id": "aoUK1nub9uQPg11WfRlX",
-      "open_target_in": "internal",
-      "title": "test 2",
-      "ad_type": "webview",
-      "media_url": "https://pixabay.com/id/images/search/url/",
-      "target_url": "https://pixabay.com/id/images/search/url/",
-      "button_text": "Daftar Sekarang"
-    }
-  ],
   "title": "game lagi update",
+  "trigger_clicks_count": 10000,
+  "show_on_first_open": true,
+  "is_ads_enabled": true,
+  "trigger_strategy": "after_seconds",
   "event_sdk": {
     "google": {
-      "is_active": true,
+      "gtm_is_active": true,
       "is_debug_view_enabled": true,
-      "gtm_is_active": true
-    },
-    "meta": {
-      "is_active": false,
-      "meta_app_id": "",
-      "meta_client_token": ""
+      "is_active": true
     },
     "tiktok": {
-      "is_active": false,
-      "android_id": "",
-      "android_tiktok_id": "",
       "apple_id": "",
-      "apple_tiktok_id": "",
-      "stage": "sandbox"
+      "android_tiktok_id": "",
+      "android_id": "",
+      "stage": "sandbox",
+      "is_active": false,
+      "apple_tiktok_id": ""
+    },
+    "meta": {
+      "meta_client_token": "",
+      "is_active": false,
+      "meta_app_id": ""
     }
-  }
+  },
+  "trigger_seconds_delay": 259200,
+  "active_campaigns": [],
+  "skip_duration_seconds": 10
 }
