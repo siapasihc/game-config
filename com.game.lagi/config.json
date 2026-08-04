@@ -5,21 +5,7 @@
   "trigger_strategy": "after_seconds",
   "trigger_clicks_count": 10000,
   "trigger_seconds_delay": 259200,
-  "active_campaigns": [
-    {
-      "schedule_start": "00:00",
-      "open_target_in": "internal",
-      "weight": 50,
-      "schedule_end": "23:59",
-      "is_active": false,
-      "campaign_id": "bHNdGwWjTwGzHMqEfXkn",
-      "title": "test 1",
-      "ad_type": "image",
-      "media_url": "https://media.istockphoto.com/id/1370609034/id/vektor/alamat-dan-ikon-bilah-navigasi-ilustrasi-vektor-konsep-bisnis-cari-www-http-pictogram.jpg?s=1024x1024&w=is&k=20&c=cUJpDlgBd8xWKJm8Jy27YMLHLbupergXXx0SyqzZKZk=",
-      "target_url": "https://media.istockphoto.com/id/1370609034/id/vektor/alamat-dan-ikon-bilah-navigasi-ilustrasi-vektor-konsep-bisnis-cari-www-http-pictogram.jpg?s=1024x1024&w=is&k=20&c=cUJpDlgBd8xWKJm8Jy27YMLHLbupergXXx0SyqzZKZk=",
-      "button_text": "Daftar Sekarang"
-    }
-  ],
+  "active_campaigns": [],
   "event_sdk": {
     "google": {
       "is_active": true,
