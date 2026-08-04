@@ -18,6 +18,19 @@
       "media_url": "https://media.istockphoto.com/id/1370609034/id/vektor/alamat-dan-ikon-bilah-navigasi-ilustrasi-vektor-konsep-bisnis-cari-www-http-pictogram.jpg?s=1024x1024&w=is&k=20&c=cUJpDlgBd8xWKJm8Jy27YMLHLbupergXXx0SyqzZKZk=",
       "target_url": "https://media.istockphoto.com/id/1370609034/id/vektor/alamat-dan-ikon-bilah-navigasi-ilustrasi-vektor-konsep-bisnis-cari-www-http-pictogram.jpg?s=1024x1024&w=is&k=20&c=cUJpDlgBd8xWKJm8Jy27YMLHLbupergXXx0SyqzZKZk=",
       "button_text": "Daftar Sekarang"
+    },
+    {
+      "campaign_id": "aoUK1nub9uQPg11WfRlX",
+      "weight": 50,
+      "is_active": true,
+      "schedule_start": "00:00",
+      "schedule_end": "23:59",
+      "open_target_in": "internal",
+      "title": "test 2",
+      "ad_type": "webview",
+      "media_url": "https://pixabay.com/id/images/search/url/",
+      "target_url": "https://pixabay.com/id/images/search/url/",
+      "button_text": "Daftar Sekarang"
     }
   ],
   "title": "TestGame",
