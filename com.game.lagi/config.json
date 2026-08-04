@@ -7,11 +7,11 @@
   "trigger_seconds_delay": 259200,
   "active_campaigns": [
     {
-      "campaign_id": "aoUK1nub9uQPg11WfRlX",
-      "weight": 50,
-      "is_active": true,
-      "schedule_start": "00:00",
       "schedule_end": "23:59",
+      "weight": 50,
+      "schedule_start": "00:00",
+      "is_active": true,
+      "campaign_id": "aoUK1nub9uQPg11WfRlX",
       "open_target_in": "internal",
       "title": "test 2",
       "ad_type": "webview",
@@ -20,6 +20,7 @@
       "button_text": "Daftar Sekarang"
     }
   ],
+  "title": "game lagi update",
   "event_sdk": {
     "google": {
       "is_active": true,
@@ -39,6 +40,5 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  },
-  "title": "game lagi update"
+  }
 }
