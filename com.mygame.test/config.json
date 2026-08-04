@@ -7,12 +7,12 @@
   "trigger_seconds_delay": 259200,
   "active_campaigns": [
     {
-      "is_active": true,
-      "weight": 50,
       "schedule_start": "00:00",
       "campaign_id": "2MhoZiwbaGVnr0FDmvat",
-      "open_target_in": "external",
+      "is_active": true,
+      "weight": 50,
       "schedule_end": "23:59",
+      "open_target_in": "external",
       "title": "anime",
       "ad_type": "image",
       "media_url": "https://awsimages.detik.net.id/community/media/visual/2025/10/07/anime-alma-chan-wants-to-be-a-family-1759833788458.png?w=700&q=90",
@@ -20,6 +20,7 @@
       "button_text": "Daftar Sekarang"
     }
   ],
+  "title": "TestGame",
   "event_sdk": {
     "google": {
       "is_active": false,
@@ -39,6 +40,5 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  },
-  "title": "TestGame"
+  }
 }
