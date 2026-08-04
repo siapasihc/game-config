@@ -1,21 +1,7 @@
 {
   "trigger_strategy": "after_clicks",
   "title": "TestGame",
-  "active_campaigns": [
-    {
-      "schedule_end": "23:59",
-      "schedule_start": "00:00",
-      "open_target_in": "internal",
-      "campaign_id": "aoUK1nub9uQPg11WfRlX",
-      "is_active": true,
-      "weight": 50,
-      "title": "test 2",
-      "ad_type": "webview",
-      "media_url": "https://pixabay.com/id/images/search/url/",
-      "target_url": "https://pixabay.com/id/images/search/url/",
-      "button_text": "Daftar Sekarang"
-    }
-  ],
+  "active_campaigns": [],
   "trigger_clicks_count": 3,
   "is_ads_enabled": false,
   "event_sdk": {
