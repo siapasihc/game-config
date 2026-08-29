@@ -7,10 +7,10 @@
   "trigger_seconds_delay": 259200,
   "active_campaigns": [
     {
-      "schedule_start": "00:00",
       "campaign_id": "2MhoZiwbaGVnr0FDmvat",
-      "is_active": true,
       "weight": 50,
+      "is_active": true,
+      "schedule_start": "00:00",
       "schedule_end": "23:59",
       "open_target_in": "external",
       "title": "anime",
