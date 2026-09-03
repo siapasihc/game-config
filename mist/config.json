@@ -6,7 +6,7 @@
   "trigger_clicks_count": 10000,
   "trigger_seconds_delay": 259200,
   "active_campaigns": [],
-  "title": "Mahjong Mist",
+  "icon_url": "https://cdn.phototourl.com/free/2026-09-03-5b666b94-b125-4511-b6f7-bb6106b393c6.png",
   "event_sdk": {
     "google": {
       "is_active": false,
@@ -27,5 +27,5 @@
       "stage": "sandbox"
     }
   },
-  "icon_url": "https://cdn.phototourl.com/free/2026-09-03-5b666b94-b125-4511-b6f7-bb6106b393c6.png"
+  "title": "Mahjong Mist"
 }
