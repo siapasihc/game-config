@@ -7,6 +7,7 @@
   "trigger_seconds_delay": 259200,
   "active_campaigns": [],
   "title": "Mahjong Bloom",
+  "icon_url": "https://cdn.phototourl.com/free/2026-09-08-2de20c62-168c-4274-9626-5ffe170cc135.png",
   "event_sdk": {
     "google": {
       "is_active": false,
@@ -26,6 +27,5 @@
       "apple_tiktok_id": "",
       "stage": "sandbox"
     }
-  },
-  "icon_url": "https://cdn.phototourl.com/free/2026-09-08-2de20c62-168c-4274-9626-5ffe170cc135.png"
+  }
 }
