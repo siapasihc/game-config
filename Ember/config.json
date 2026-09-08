@@ -6,7 +6,6 @@
   "trigger_clicks_count": 10000,
   "trigger_seconds_delay": 259200,
   "active_campaigns": [],
-  "title": "Mahjong Ember",
   "event_sdk": {
     "google": {
       "is_active": false,
@@ -27,5 +26,6 @@
       "stage": "sandbox"
     }
   },
+  "title": "Mahjong Ember",
   "icon_url": "https://cdn.phototourl.com/free/2026-09-08-83691a83-f946-4f4a-b326-ea7326e861ce.png"
 }
