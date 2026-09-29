@@ -6,7 +6,7 @@
   "trigger_clicks_count": 10000,
   "trigger_seconds_delay": 259200,
   "active_campaigns": [],
-  "title": "Prediksi & Buku Mimpi",
+  "icon_url": "https://imagetourls.com/id/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2FIHcwWdyM.png",
   "event_sdk": {
     "google": {
       "is_active": false,
@@ -27,5 +27,5 @@
       "stage": "sandbox"
     }
   },
-  "icon_url": "https://imagetourls.com/id/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2FIHcwWdyM.png"
+  "title": "Prediksi & Buku Mimpi"
 }
