@@ -6,7 +6,7 @@
   "trigger_clicks_count": 10000,
   "trigger_seconds_delay": 259200,
   "active_campaigns": [],
-  "icon_url": "https://imagetourls.com/id/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2FIHcwWdyM.png",
+  "icon_url": "https://cdn.imagetourls.com/uploads/tyImg/IHcwWdyM.png",
   "event_sdk": {
     "google": {
       "is_active": false,
